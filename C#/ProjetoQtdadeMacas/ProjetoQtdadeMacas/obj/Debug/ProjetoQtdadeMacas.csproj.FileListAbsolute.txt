@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoQtdadeMacas\ProjetoQtdadeMacas\bin\Debug\ProjetoQtdadeMacas.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoQtdadeMacas\ProjetoQtdadeMacas\bin\Debug\ProjetoQtdadeMacas.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoQtdadeMacas\ProjetoQtdadeMacas\bin\Debug\ProjetoQtdadeMacas.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoQtdadeMacas\ProjetoQtdadeMacas\obj\Debug\ProjetoQtdadeMacas.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoQtdadeMacas\ProjetoQtdadeMacas\obj\Debug\ProjetoQtdadeMacas.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoQtdadeMacas\ProjetoQtdadeMacas\obj\Debug\ProjetoQtdadeMacas.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoQtdadeMacas\ProjetoQtdadeMacas\obj\Debug\ProjetoQtdadeMacas.pdb

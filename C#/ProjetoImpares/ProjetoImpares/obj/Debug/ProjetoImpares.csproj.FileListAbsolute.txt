@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoImpares\ProjetoImpares\bin\Debug\ProjetoImpares.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoImpares\ProjetoImpares\bin\Debug\ProjetoImpares.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoImpares\ProjetoImpares\bin\Debug\ProjetoImpares.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoImpares\ProjetoImpares\obj\Debug\ProjetoImpares.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoImpares\ProjetoImpares\obj\Debug\ProjetoImpares.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoImpares\ProjetoImpares\obj\Debug\ProjetoImpares.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoImpares\ProjetoImpares\obj\Debug\ProjetoImpares.pdb

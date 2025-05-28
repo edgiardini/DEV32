@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoPares\ProjetoPares\bin\Debug\ProjetoPares.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoPares\ProjetoPares\bin\Debug\ProjetoPares.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoPares\ProjetoPares\bin\Debug\ProjetoPares.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoPares\ProjetoPares\obj\Debug\ProjetoPares.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoPares\ProjetoPares\obj\Debug\ProjetoPares.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoPares\ProjetoPares\obj\Debug\ProjetoPares.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoPares\ProjetoPares\obj\Debug\ProjetoPares.pdb

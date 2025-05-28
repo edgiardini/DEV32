@@ -1,0 +1,21 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoForms2\ProjetoForms2\bin\Debug\ProjetoForms2.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoForms2\ProjetoForms2\bin\Debug\ProjetoForms2.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoForms2\ProjetoForms2\bin\Debug\ProjetoForms2.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.Form1.resources
+C:\Users\eduardo.hgiardini\source\repos\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.Properties.Resources.resources
+C:\Users\eduardo.hgiardini\source\repos\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.csproj.GenerateResource.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.pdb
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoForms2\ProjetoForms2\bin\Debug\ProjetoForms2.exe.config
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoForms2\ProjetoForms2\bin\Debug\ProjetoForms2.exe
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoForms2\ProjetoForms2\bin\Debug\ProjetoForms2.pdb
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.Form1.resources
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.Properties.Resources.resources
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.csproj.GenerateResource.cache
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.exe
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.pdb
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.frmMenu.resources

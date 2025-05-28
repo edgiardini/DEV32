@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoVerificaNotas\ProjetoVerificaNotas\bin\Debug\ProjetoVerificaNotas.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoVerificaNotas\ProjetoVerificaNotas\bin\Debug\ProjetoVerificaNotas.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoVerificaNotas\ProjetoVerificaNotas\bin\Debug\ProjetoVerificaNotas.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoVerificaNotas\ProjetoVerificaNotas\obj\Debug\ProjetoVerificaNotas.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoVerificaNotas\ProjetoVerificaNotas\obj\Debug\ProjetoVerificaNotas.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoVerificaNotas\ProjetoVerificaNotas\obj\Debug\ProjetoVerificaNotas.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoVerificaNotas\ProjetoVerificaNotas\obj\Debug\ProjetoVerificaNotas.pdb

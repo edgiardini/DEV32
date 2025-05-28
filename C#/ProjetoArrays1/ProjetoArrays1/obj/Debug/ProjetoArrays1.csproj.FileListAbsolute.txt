@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays1\ProjetoArrays1\bin\Debug\ProjetoArrays1.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays1\ProjetoArrays1\bin\Debug\ProjetoArrays1.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays1\ProjetoArrays1\bin\Debug\ProjetoArrays1.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays1\ProjetoArrays1\obj\Debug\ProjetoArrays1.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays1\ProjetoArrays1\obj\Debug\ProjetoArrays1.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays1\ProjetoArrays1\obj\Debug\ProjetoArrays1.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays1\ProjetoArrays1\obj\Debug\ProjetoArrays1.pdb

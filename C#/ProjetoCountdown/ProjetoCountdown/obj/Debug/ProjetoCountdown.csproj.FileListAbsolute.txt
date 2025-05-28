@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoCountdown\ProjetoCountdown\bin\Debug\ProjetoCountdown.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoCountdown\ProjetoCountdown\bin\Debug\ProjetoCountdown.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoCountdown\ProjetoCountdown\bin\Debug\ProjetoCountdown.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoCountdown\ProjetoCountdown\obj\Debug\ProjetoCountdown.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoCountdown\ProjetoCountdown\obj\Debug\ProjetoCountdown.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoCountdown\ProjetoCountdown\obj\Debug\ProjetoCountdown.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoCountdown\ProjetoCountdown\obj\Debug\ProjetoCountdown.pdb

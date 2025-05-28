@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\Projeto Calc1\Projeto Calc1\bin\Debug\Projeto Calc1.exe.config
+C:\Users\eduardo.hgiardini\source\repos\Projeto Calc1\Projeto Calc1\bin\Debug\Projeto Calc1.exe
+C:\Users\eduardo.hgiardini\source\repos\Projeto Calc1\Projeto Calc1\bin\Debug\Projeto Calc1.pdb
+C:\Users\eduardo.hgiardini\source\repos\Projeto Calc1\Projeto Calc1\obj\Debug\Projeto Calc1.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\Projeto Calc1\Projeto Calc1\obj\Debug\Projeto Calc1.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\Projeto Calc1\Projeto Calc1\obj\Debug\Projeto Calc1.exe
+C:\Users\eduardo.hgiardini\source\repos\Projeto Calc1\Projeto Calc1\obj\Debug\Projeto Calc1.pdb

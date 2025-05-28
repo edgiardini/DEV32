@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte2\ProjetoTransporte2\bin\Debug\ProjetoTransporte2.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte2\ProjetoTransporte2\bin\Debug\ProjetoTransporte2.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte2\ProjetoTransporte2\bin\Debug\ProjetoTransporte2.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte2\ProjetoTransporte2\obj\Debug\ProjetoTransporte2.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte2\ProjetoTransporte2\obj\Debug\ProjetoTransporte2.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte2\ProjetoTransporte2\obj\Debug\ProjetoTransporte2.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte2\ProjetoTransporte2\obj\Debug\ProjetoTransporte2.pdb

@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoDesconto\ProjetoDesconto\bin\Debug\ProjetoDesconto.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoDesconto\ProjetoDesconto\bin\Debug\ProjetoDesconto.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoDesconto\ProjetoDesconto\bin\Debug\ProjetoDesconto.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoDesconto\ProjetoDesconto\obj\Debug\ProjetoDesconto.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoDesconto\ProjetoDesconto\obj\Debug\ProjetoDesconto.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoDesconto\ProjetoDesconto\obj\Debug\ProjetoDesconto.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoDesconto\ProjetoDesconto\obj\Debug\ProjetoDesconto.pdb

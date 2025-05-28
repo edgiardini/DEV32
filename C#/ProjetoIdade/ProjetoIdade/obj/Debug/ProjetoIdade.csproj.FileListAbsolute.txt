@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoIdade\ProjetoIdade\bin\Debug\ProjetoIdade.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoIdade\ProjetoIdade\bin\Debug\ProjetoIdade.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoIdade\ProjetoIdade\bin\Debug\ProjetoIdade.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoIdade\ProjetoIdade\obj\Debug\ProjetoIdade.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoIdade\ProjetoIdade\obj\Debug\ProjetoIdade.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoIdade\ProjetoIdade\obj\Debug\ProjetoIdade.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoIdade\ProjetoIdade\obj\Debug\ProjetoIdade.pdb

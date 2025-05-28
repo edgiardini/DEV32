@@ -1,0 +1,10 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoParouImpar\ProjetoParouImpar\bin\Debug\ProjetoParouImpar.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoParouImpar\ProjetoParouImpar\bin\Debug\ProjetoParouImpar.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoParouImpar\ProjetoParouImpar\bin\Debug\ProjetoParouImpar.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoParouImpar\ProjetoParouImpar\obj\Debug\ProjetoParouImpar.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoParouImpar\ProjetoParouImpar\obj\Debug\ProjetoParouImpar.Form1.resources
+C:\Users\eduardo.hgiardini\source\repos\ProjetoParouImpar\ProjetoParouImpar\obj\Debug\ProjetoParouImpar.Properties.Resources.resources
+C:\Users\eduardo.hgiardini\source\repos\ProjetoParouImpar\ProjetoParouImpar\obj\Debug\ProjetoParouImpar.csproj.GenerateResource.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoParouImpar\ProjetoParouImpar\obj\Debug\ProjetoParouImpar.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoParouImpar\ProjetoParouImpar\obj\Debug\ProjetoParouImpar.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoParouImpar\ProjetoParouImpar\obj\Debug\ProjetoParouImpar.pdb

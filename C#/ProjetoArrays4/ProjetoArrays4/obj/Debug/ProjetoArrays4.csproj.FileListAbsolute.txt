@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays4\ProjetoArrays4\bin\Debug\ProjetoArrays4.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays4\ProjetoArrays4\bin\Debug\ProjetoArrays4.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays4\ProjetoArrays4\bin\Debug\ProjetoArrays4.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays4\ProjetoArrays4\obj\Debug\ProjetoArrays4.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays4\ProjetoArrays4\obj\Debug\ProjetoArrays4.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays4\ProjetoArrays4\obj\Debug\ProjetoArrays4.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays4\ProjetoArrays4\obj\Debug\ProjetoArrays4.pdb

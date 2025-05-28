@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoFor1\ProjetoFor1\bin\Debug\ProjetoFor1.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoFor1\ProjetoFor1\bin\Debug\ProjetoFor1.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoFor1\ProjetoFor1\bin\Debug\ProjetoFor1.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoFor1\ProjetoFor1\obj\Debug\ProjetoFor1.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoFor1\ProjetoFor1\obj\Debug\ProjetoFor1.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoFor1\ProjetoFor1\obj\Debug\ProjetoFor1.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoFor1\ProjetoFor1\obj\Debug\ProjetoFor1.pdb

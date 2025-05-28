@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoRepeteMedia\ProjetoRepeteMedia\bin\Debug\ProjetoRepeteMedia.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoRepeteMedia\ProjetoRepeteMedia\bin\Debug\ProjetoRepeteMedia.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoRepeteMedia\ProjetoRepeteMedia\bin\Debug\ProjetoRepeteMedia.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoRepeteMedia\ProjetoRepeteMedia\obj\Debug\ProjetoRepeteMedia.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoRepeteMedia\ProjetoRepeteMedia\obj\Debug\ProjetoRepeteMedia.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoRepeteMedia\ProjetoRepeteMedia\obj\Debug\ProjetoRepeteMedia.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoRepeteMedia\ProjetoRepeteMedia\obj\Debug\ProjetoRepeteMedia.pdb

@@ -1,0 +1,20 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoMedia\ProjetoMedia\bin\Debug\ProjetoMedia.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoMedia\ProjetoMedia\bin\Debug\ProjetoMedia.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoMedia\ProjetoMedia\bin\Debug\ProjetoMedia.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.Form1.resources
+C:\Users\eduardo.hgiardini\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.Properties.Resources.resources
+C:\Users\eduardo.hgiardini\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.GenerateResource.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.pdb
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoMedia\ProjetoMedia\bin\Debug\ProjetoMedia.exe.config
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoMedia\ProjetoMedia\bin\Debug\ProjetoMedia.exe
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoMedia\ProjetoMedia\bin\Debug\ProjetoMedia.pdb
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.Form1.resources
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.Properties.Resources.resources
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.GenerateResource.cache
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.exe
+C:\Users\eduardo.hgiardini\source\repos\Windows Forms\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoContaVogais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{944A6EDB-7CEE-4812-A17B-4B44D9DA24A5}|ProjetoContaVogais\\ProjetoContaVogais.csproj|c:\\users\\eduardo.hgiardini\\source\\repos\\projetocontavogais\\projetocontavogais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944A6EDB-7CEE-4812-A17B-4B44D9DA24A5}|ProjetoContaVogais\\ProjetoContaVogais.csproj|solutionrelative:projetocontavogais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoContaVogais\\ProjetoContaVogais\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoContaVogais\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoContaVogais\\ProjetoContaVogais\\Program.cs",
+              "RelativeToolTip": "ProjetoContaVogais\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:22:56.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

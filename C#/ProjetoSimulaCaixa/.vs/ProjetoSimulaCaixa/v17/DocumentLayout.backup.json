@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoSimulaCaixa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E850DA9-0430-4BB6-913E-B5EE59807506}|ProjetoSimulaCaixa\\ProjetoSimulaCaixa.csproj|c:\\users\\eduardo.hgiardini\\source\\repos\\projetosimulacaixa\\projetosimulacaixa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E850DA9-0430-4BB6-913E-B5EE59807506}|ProjetoSimulaCaixa\\ProjetoSimulaCaixa.csproj|solutionrelative:projetosimulacaixa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoSimulaCaixa\\ProjetoSimulaCaixa\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoSimulaCaixa\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoSimulaCaixa\\ProjetoSimulaCaixa\\Program.cs",
+              "RelativeToolTip": "ProjetoSimulaCaixa\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:56:15.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

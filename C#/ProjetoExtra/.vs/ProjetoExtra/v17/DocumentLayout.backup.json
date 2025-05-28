@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7532542B-FE6E-4640-80CE-ABD94034A538}|ProjetoExtra\\ProjetoExtra.csproj|c:\\users\\eduardo.hgiardini\\source\\repos\\projetoextra\\projetoextra\\projetosenac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7532542B-FE6E-4640-80CE-ABD94034A538}|ProjetoExtra\\ProjetoExtra.csproj|solutionrelative:projetoextra\\projetosenac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7532542B-FE6E-4640-80CE-ABD94034A538}|ProjetoExtra\\ProjetoExtra.csproj|c:\\users\\eduardo.hgiardini\\source\\repos\\projetoextra\\projetoextra\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7532542B-FE6E-4640-80CE-ABD94034A538}|ProjetoExtra\\ProjetoExtra.csproj|solutionrelative:projetoextra\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7532542B-FE6E-4640-80CE-ABD94034A538}|ProjetoExtra\\ProjetoExtra.csproj|C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\projetoextra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7532542B-FE6E-4640-80CE-ABD94034A538}|ProjetoExtra\\ProjetoExtra.csproj|solutionrelative:projetoextra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7532542B-FE6E-4640-80CE-ABD94034A538}|ProjetoExtra\\ProjetoExtra.csproj|c:\\users\\eduardo.hgiardini\\source\\repos\\projetoextra\\projetoextra\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7532542B-FE6E-4640-80CE-ABD94034A538}|ProjetoExtra\\ProjetoExtra.csproj|solutionrelative:projetoextra\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7532542B-FE6E-4640-80CE-ABD94034A538}|ProjetoExtra\\ProjetoExtra.csproj|C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\projetoextra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7532542B-FE6E-4640-80CE-ABD94034A538}|ProjetoExtra\\ProjetoExtra.csproj|solutionrelative:projetoextra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7532542B-FE6E-4640-80CE-ABD94034A538}|ProjetoExtra\\ProjetoExtra.csproj|C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\projetoextra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7532542B-FE6E-4640-80CE-ABD94034A538}|ProjetoExtra\\ProjetoExtra.csproj|solutionrelative:projetoextra\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjetoSenac.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\ProjetoExtra\\ProjetoSenac.cs",
+              "RelativeDocumentMoniker": "ProjetoExtra\\ProjetoSenac.cs",
+              "ToolTip": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\ProjetoExtra\\ProjetoSenac.cs [Design]",
+              "RelativeToolTip": "ProjetoExtra\\ProjetoSenac.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:44:38.984Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\ProjetoExtra\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "ProjetoExtra\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\ProjetoExtra\\FrmLogin.cs",
+              "RelativeToolTip": "ProjetoExtra\\FrmLogin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:41:04.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\ProjetoExtra\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoExtra\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\ProjetoExtra\\Program.cs",
+              "RelativeToolTip": "ProjetoExtra\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:24:49.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\ProjetoExtra\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "ProjetoExtra\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\ProjetoExtra\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "ProjetoExtra\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:15:55.045Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\ProjetoExtra\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoExtra\\Form1.cs",
+              "ToolTip": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\ProjetoExtra\\Form1.cs",
+              "RelativeToolTip": "ProjetoExtra\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:56:37.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\ProjetoExtra\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoExtra\\Form1.cs",
+              "ToolTip": "C:\\Users\\eduardo.hgiardini\\source\\repos\\ProjetoExtra\\ProjetoExtra\\Form1.cs [Design]",
+              "RelativeToolTip": "ProjetoExtra\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:42:20.156Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

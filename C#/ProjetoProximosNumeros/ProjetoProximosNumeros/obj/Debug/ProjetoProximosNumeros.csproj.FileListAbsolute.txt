@@ -1,0 +1,7 @@
+C:\Users\eduardo.hgiardini\source\repos\ProjetoProximosNumeros\ProjetoProximosNumeros\bin\Debug\ProjetoProximosNumeros.exe.config
+C:\Users\eduardo.hgiardini\source\repos\ProjetoProximosNumeros\ProjetoProximosNumeros\bin\Debug\ProjetoProximosNumeros.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoProximosNumeros\ProjetoProximosNumeros\bin\Debug\ProjetoProximosNumeros.pdb
+C:\Users\eduardo.hgiardini\source\repos\ProjetoProximosNumeros\ProjetoProximosNumeros\obj\Debug\ProjetoProximosNumeros.csproj.AssemblyReference.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoProximosNumeros\ProjetoProximosNumeros\obj\Debug\ProjetoProximosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.hgiardini\source\repos\ProjetoProximosNumeros\ProjetoProximosNumeros\obj\Debug\ProjetoProximosNumeros.exe
+C:\Users\eduardo.hgiardini\source\repos\ProjetoProximosNumeros\ProjetoProximosNumeros\obj\Debug\ProjetoProximosNumeros.pdb

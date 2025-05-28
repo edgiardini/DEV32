@@ -1,0 +1,69 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProjetoCaixaEletronico
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            decimal saldo = 1000.00m;
+            int opcao;
+
+            do
+            {
+                Console.WriteLine("\n-- CAIXA ELETRÔNICO --");
+                Console.WriteLine("1- Sacar dinheiro");
+                Console.WriteLine("2- Depositar dinheiro");
+                Console.WriteLine("3- Sair");
+                Console.Write("Escolha uma opção: ");
+                opcao = Convert.ToInt32(Console.ReadLine());
+
+                switch (opcao)
+                {
+                    case 1:
+                        Console.Write("Digite o valor do saque: R$ ");
+                        decimal saque = Convert.ToDecimal(Console.ReadLine());
+                        if (saque > 0 && saque <= saldo)
+                        {
+                            saldo -= saque;
+                            Console.WriteLine($"Saque realizado com sucesso! Saldo atual: R$ {saldo:F2}");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Saldo insuficiente ou valor inválido!");
+                        }
+                        break;
+
+                    case 2:
+                        Console.Write("Digite o valor do depósito: R$ ");
+                        decimal deposito = Convert.ToDecimal(Console.ReadLine());
+                        if (deposito > 0)
+                        {
+                            saldo += deposito;
+                            Console.WriteLine($"Depósito realizado com sucesso! Saldo atual: R$ {saldo:F2}");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Valor de depósito inválido!");
+                        }
+                        break;
+
+                    case 3:
+                        Console.WriteLine("Saindo do sistema...");
+                        break;
+
+                    default:
+                        Console.WriteLine("Opção inválida!");
+                        break;
+                }
+            } while (opcao != 3);
+
+            Console.WriteLine("Obrigado por usar o CAIXA ELETRÔNICO!");
+            Console.ReadKey();
+        }
+    }
+}
