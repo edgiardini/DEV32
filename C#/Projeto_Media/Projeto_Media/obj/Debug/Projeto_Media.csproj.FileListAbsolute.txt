@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Media\Projeto_Media\bin\Debug\Projeto_Media.exe.config
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Media\Projeto_Media\bin\Debug\Projeto_Media.exe
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Media\Projeto_Media\bin\Debug\Projeto_Media.pdb
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Media\Projeto_Media\obj\Debug\Projeto_Media.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Media\Projeto_Media\obj\Debug\Projeto_Media.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Media\Projeto_Media\obj\Debug\Projeto_Media.exe
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Media\Projeto_Media\obj\Debug\Projeto_Media.pdb

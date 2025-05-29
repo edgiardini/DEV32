@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoClassificacaodeNotas\ProjetoClassificacaodeNotas\bin\Debug\ProjetoClassificacaodeNotas.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoClassificacaodeNotas\ProjetoClassificacaodeNotas\bin\Debug\ProjetoClassificacaodeNotas.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoClassificacaodeNotas\ProjetoClassificacaodeNotas\bin\Debug\ProjetoClassificacaodeNotas.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoClassificacaodeNotas\ProjetoClassificacaodeNotas\obj\Debug\ProjetoClassificacaodeNotas.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoClassificacaodeNotas\ProjetoClassificacaodeNotas\obj\Debug\ProjetoClassificacaodeNotas.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoClassificacaodeNotas\ProjetoClassificacaodeNotas\obj\Debug\ProjetoClassificacaodeNotas.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoClassificacaodeNotas\ProjetoClassificacaodeNotas\obj\Debug\ProjetoClassificacaodeNotas.pdb

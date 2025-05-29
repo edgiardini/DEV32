@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoParImpar\ProjetoParImpar\bin\Debug\ProjetoParImpar.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoParImpar\ProjetoParImpar\bin\Debug\ProjetoParImpar.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoParImpar\ProjetoParImpar\bin\Debug\ProjetoParImpar.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoParImpar\ProjetoParImpar\obj\Debug\ProjetoParImpar.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoParImpar\ProjetoParImpar\obj\Debug\ProjetoParImpar.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoParImpar\ProjetoParImpar\obj\Debug\ProjetoParImpar.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoParImpar\ProjetoParImpar\obj\Debug\ProjetoParImpar.pdb

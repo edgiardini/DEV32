@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays2\ProjetoArrays2\bin\Debug\ProjetoArrays2.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays2\ProjetoArrays2\bin\Debug\ProjetoArrays2.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays2\ProjetoArrays2\bin\Debug\ProjetoArrays2.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays2\ProjetoArrays2\obj\Debug\ProjetoArrays2.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays2\ProjetoArrays2\obj\Debug\ProjetoArrays2.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays2\ProjetoArrays2\obj\Debug\ProjetoArrays2.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoArrays2\ProjetoArrays2\obj\Debug\ProjetoArrays2.pdb

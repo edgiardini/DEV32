@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte\ProjetoTransporte\bin\Debug\ProjetoTransporte.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte\ProjetoTransporte\bin\Debug\ProjetoTransporte.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte\ProjetoTransporte\bin\Debug\ProjetoTransporte.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte\ProjetoTransporte\obj\Debug\ProjetoTransporte.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte\ProjetoTransporte\obj\Debug\ProjetoTransporte.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte\ProjetoTransporte\obj\Debug\ProjetoTransporte.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTransporte\ProjetoTransporte\obj\Debug\ProjetoTransporte.pdb

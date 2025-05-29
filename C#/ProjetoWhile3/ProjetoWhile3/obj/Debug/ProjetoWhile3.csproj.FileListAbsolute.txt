@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile3\ProjetoWhile3\bin\Debug\ProjetoWhile3.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile3\ProjetoWhile3\bin\Debug\ProjetoWhile3.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile3\ProjetoWhile3\bin\Debug\ProjetoWhile3.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile3\ProjetoWhile3\obj\Debug\ProjetoWhile3.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile3\ProjetoWhile3\obj\Debug\ProjetoWhile3.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile3\ProjetoWhile3\obj\Debug\ProjetoWhile3.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile3\ProjetoWhile3\obj\Debug\ProjetoWhile3.pdb

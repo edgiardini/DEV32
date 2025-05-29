@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculodeSalario\ProjetoCalculodeSalario\obj\Debug\ProjetoCalculodeSalario.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculodeSalario\ProjetoCalculodeSalario\obj\Debug\ProjetoCalculodeSalario.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculodeSalario\ProjetoCalculodeSalario\bin\Debug\ProjetoCalculodeSalario.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculodeSalario\ProjetoCalculodeSalario\bin\Debug\ProjetoCalculodeSalario.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculodeSalario\ProjetoCalculodeSalario\bin\Debug\ProjetoCalculodeSalario.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculodeSalario\ProjetoCalculodeSalario\obj\Debug\ProjetoCalculodeSalario.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculodeSalario\ProjetoCalculodeSalario\obj\Debug\ProjetoCalculodeSalario.pdb

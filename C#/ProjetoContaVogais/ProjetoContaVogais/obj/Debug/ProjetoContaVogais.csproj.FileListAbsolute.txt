@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoContaVogais\ProjetoContaVogais\bin\Debug\ProjetoContaVogais.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoContaVogais\ProjetoContaVogais\bin\Debug\ProjetoContaVogais.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoContaVogais\ProjetoContaVogais\bin\Debug\ProjetoContaVogais.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoContaVogais\ProjetoContaVogais\obj\Debug\ProjetoContaVogais.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoContaVogais\ProjetoContaVogais\obj\Debug\ProjetoContaVogais.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoContaVogais\ProjetoContaVogais\obj\Debug\ProjetoContaVogais.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoContaVogais\ProjetoContaVogais\obj\Debug\ProjetoContaVogais.pdb

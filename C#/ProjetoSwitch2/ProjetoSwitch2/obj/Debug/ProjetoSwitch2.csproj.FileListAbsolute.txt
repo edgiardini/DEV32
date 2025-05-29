@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSwitch2\ProjetoSwitch2\bin\Debug\ProjetoSwitch2.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSwitch2\ProjetoSwitch2\bin\Debug\ProjetoSwitch2.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSwitch2\ProjetoSwitch2\bin\Debug\ProjetoSwitch2.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSwitch2\ProjetoSwitch2\obj\Debug\ProjetoSwitch2.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSwitch2\ProjetoSwitch2\obj\Debug\ProjetoSwitch2.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSwitch2\ProjetoSwitch2\obj\Debug\ProjetoSwitch2.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSwitch2\ProjetoSwitch2\obj\Debug\ProjetoSwitch2.pdb

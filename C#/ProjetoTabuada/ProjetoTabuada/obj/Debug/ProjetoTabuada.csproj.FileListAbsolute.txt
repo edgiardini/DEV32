@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTabuada\ProjetoTabuada\bin\Debug\ProjetoTabuada.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTabuada\ProjetoTabuada\bin\Debug\ProjetoTabuada.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTabuada\ProjetoTabuada\bin\Debug\ProjetoTabuada.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTabuada\ProjetoTabuada\obj\Debug\ProjetoTabuada.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTabuada\ProjetoTabuada\obj\Debug\ProjetoTabuada.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTabuada\ProjetoTabuada\obj\Debug\ProjetoTabuada.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoTabuada\ProjetoTabuada\obj\Debug\ProjetoTabuada.pdb

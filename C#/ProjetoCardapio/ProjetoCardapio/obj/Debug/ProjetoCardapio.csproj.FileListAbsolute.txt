@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCardapio\ProjetoCardapio\bin\Debug\ProjetoCardapio.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCardapio\ProjetoCardapio\bin\Debug\ProjetoCardapio.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCardapio\ProjetoCardapio\bin\Debug\ProjetoCardapio.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCardapio\ProjetoCardapio\obj\Debug\ProjetoCardapio.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCardapio\ProjetoCardapio\obj\Debug\ProjetoCardapio.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCardapio\ProjetoCardapio\obj\Debug\ProjetoCardapio.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCardapio\ProjetoCardapio\obj\Debug\ProjetoCardapio.pdb

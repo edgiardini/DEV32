@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSimulaCaixa\ProjetoSimulaCaixa\bin\Debug\ProjetoSimulaCaixa.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSimulaCaixa\ProjetoSimulaCaixa\bin\Debug\ProjetoSimulaCaixa.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSimulaCaixa\ProjetoSimulaCaixa\bin\Debug\ProjetoSimulaCaixa.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSimulaCaixa\ProjetoSimulaCaixa\obj\Debug\ProjetoSimulaCaixa.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSimulaCaixa\ProjetoSimulaCaixa\obj\Debug\ProjetoSimulaCaixa.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSimulaCaixa\ProjetoSimulaCaixa\obj\Debug\ProjetoSimulaCaixa.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoSimulaCaixa\ProjetoSimulaCaixa\obj\Debug\ProjetoSimulaCaixa.pdb

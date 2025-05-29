@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoValorVenda\ProjetoValorVenda\bin\Debug\ProjetoValorVenda.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoValorVenda\ProjetoValorVenda\bin\Debug\ProjetoValorVenda.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoValorVenda\ProjetoValorVenda\bin\Debug\ProjetoValorVenda.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoValorVenda\ProjetoValorVenda\obj\Debug\ProjetoValorVenda.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoValorVenda\ProjetoValorVenda\obj\Debug\ProjetoValorVenda.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoValorVenda\ProjetoValorVenda\obj\Debug\ProjetoValorVenda.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoValorVenda\ProjetoValorVenda\obj\Debug\ProjetoValorVenda.pdb

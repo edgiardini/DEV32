@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\DadosIdade\DadosIdade\bin\Debug\DadosIdade.exe.config
-C:\Users\eduardo.hgiardini\source\repos\DadosIdade\DadosIdade\bin\Debug\DadosIdade.exe
-C:\Users\eduardo.hgiardini\source\repos\DadosIdade\DadosIdade\bin\Debug\DadosIdade.pdb
-C:\Users\eduardo.hgiardini\source\repos\DadosIdade\DadosIdade\obj\Debug\DadosIdade.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\DadosIdade\DadosIdade\obj\Debug\DadosIdade.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\DadosIdade\DadosIdade\obj\Debug\DadosIdade.exe
-C:\Users\eduardo.hgiardini\source\repos\DadosIdade\DadosIdade\obj\Debug\DadosIdade.pdb

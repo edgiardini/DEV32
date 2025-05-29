@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoDiadaSemana\ProjetoDiadaSemana\bin\Debug\ProjetoDiadaSemana.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoDiadaSemana\ProjetoDiadaSemana\bin\Debug\ProjetoDiadaSemana.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoDiadaSemana\ProjetoDiadaSemana\bin\Debug\ProjetoDiadaSemana.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoDiadaSemana\ProjetoDiadaSemana\obj\Debug\ProjetoDiadaSemana.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoDiadaSemana\ProjetoDiadaSemana\obj\Debug\ProjetoDiadaSemana.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoDiadaSemana\ProjetoDiadaSemana\obj\Debug\ProjetoDiadaSemana.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoDiadaSemana\ProjetoDiadaSemana\obj\Debug\ProjetoDiadaSemana.pdb

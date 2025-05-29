@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoNumsInteiros\ProjetoNumsInteiros\bin\Debug\ProjetoNumsInteiros.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoNumsInteiros\ProjetoNumsInteiros\bin\Debug\ProjetoNumsInteiros.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoNumsInteiros\ProjetoNumsInteiros\bin\Debug\ProjetoNumsInteiros.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoNumsInteiros\ProjetoNumsInteiros\obj\Debug\ProjetoNumsInteiros.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoNumsInteiros\ProjetoNumsInteiros\obj\Debug\ProjetoNumsInteiros.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoNumsInteiros\ProjetoNumsInteiros\obj\Debug\ProjetoNumsInteiros.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoNumsInteiros\ProjetoNumsInteiros\obj\Debug\ProjetoNumsInteiros.pdb

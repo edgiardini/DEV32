@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculadoraSimples\ProjetoCalculadoraSimples\bin\Debug\ProjetoCalculadoraSimples.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculadoraSimples\ProjetoCalculadoraSimples\bin\Debug\ProjetoCalculadoraSimples.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculadoraSimples\ProjetoCalculadoraSimples\bin\Debug\ProjetoCalculadoraSimples.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculadoraSimples\ProjetoCalculadoraSimples\obj\Debug\ProjetoCalculadoraSimples.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculadoraSimples\ProjetoCalculadoraSimples\obj\Debug\ProjetoCalculadoraSimples.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculadoraSimples\ProjetoCalculadoraSimples\obj\Debug\ProjetoCalculadoraSimples.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoCalculadoraSimples\ProjetoCalculadoraSimples\obj\Debug\ProjetoCalculadoraSimples.pdb

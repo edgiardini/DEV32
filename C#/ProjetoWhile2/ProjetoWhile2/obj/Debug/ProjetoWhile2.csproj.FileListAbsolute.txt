@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile2\ProjetoWhile2\bin\Debug\ProjetoWhile2.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile2\ProjetoWhile2\bin\Debug\ProjetoWhile2.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile2\ProjetoWhile2\bin\Debug\ProjetoWhile2.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\ProjetoWhile2.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\ProjetoWhile2.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\ProjetoWhile2.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoWhile2\ProjetoWhile2\obj\Debug\ProjetoWhile2.pdb

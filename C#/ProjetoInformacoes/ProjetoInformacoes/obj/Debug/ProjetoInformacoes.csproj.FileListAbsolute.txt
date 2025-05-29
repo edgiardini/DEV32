@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoInformacoes\ProjetoInformacoes\bin\Debug\ProjetoInformacoes.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoInformacoes\ProjetoInformacoes\bin\Debug\ProjetoInformacoes.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoInformacoes\ProjetoInformacoes\bin\Debug\ProjetoInformacoes.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoInformacoes\ProjetoInformacoes\obj\Debug\ProjetoInformacoes.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoInformacoes\ProjetoInformacoes\obj\Debug\ProjetoInformacoes.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoInformacoes\ProjetoInformacoes\obj\Debug\ProjetoInformacoes.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoInformacoes\ProjetoInformacoes\obj\Debug\ProjetoInformacoes.pdb

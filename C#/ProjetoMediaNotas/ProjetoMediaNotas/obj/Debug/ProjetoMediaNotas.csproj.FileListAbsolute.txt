@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\ProjetoMediaNotas\ProjetoMediaNotas\bin\Debug\ProjetoMediaNotas.exe.config
-C:\Users\eduardo.hgiardini\source\repos\ProjetoMediaNotas\ProjetoMediaNotas\bin\Debug\ProjetoMediaNotas.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoMediaNotas\ProjetoMediaNotas\bin\Debug\ProjetoMediaNotas.pdb
-C:\Users\eduardo.hgiardini\source\repos\ProjetoMediaNotas\ProjetoMediaNotas\obj\Debug\ProjetoMediaNotas.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoMediaNotas\ProjetoMediaNotas\obj\Debug\ProjetoMediaNotas.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\ProjetoMediaNotas\ProjetoMediaNotas\obj\Debug\ProjetoMediaNotas.exe
-C:\Users\eduardo.hgiardini\source\repos\ProjetoMediaNotas\ProjetoMediaNotas\obj\Debug\ProjetoMediaNotas.pdb

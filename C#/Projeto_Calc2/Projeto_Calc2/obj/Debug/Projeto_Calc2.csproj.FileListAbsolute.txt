@@ -1,7 +1,0 @@
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Calc2\Projeto_Calc2\bin\Debug\Projeto_Calc2.exe.config
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Calc2\Projeto_Calc2\bin\Debug\Projeto_Calc2.exe
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Calc2\Projeto_Calc2\bin\Debug\Projeto_Calc2.pdb
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Calc2\Projeto_Calc2\obj\Debug\Projeto_Calc2.csproj.AssemblyReference.cache
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Calc2\Projeto_Calc2\obj\Debug\Projeto_Calc2.csproj.CoreCompileInputs.cache
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Calc2\Projeto_Calc2\obj\Debug\Projeto_Calc2.exe
-C:\Users\eduardo.hgiardini\source\repos\Projeto_Calc2\Projeto_Calc2\obj\Debug\Projeto_Calc2.pdb
