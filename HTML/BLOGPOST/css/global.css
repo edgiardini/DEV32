@@ -1,0 +1,39 @@
+
+/* ORGANIZAÇÃO DOS ELEMENTOS */
+
+body{
+    background-color: black;
+    /* background-image: url(../img/logometal2.jpg); */
+    /* background-repeat: no-repeat; */
+}
+
+.menu{
+    font-size: 35px;
+    display: flex;   
+    justify-content: space-between;
+}
+
+.menu img{
+    margin: 40px 0px 20px 60px;
+}
+
+.menu h1{
+    font-family: 'vtks Rude Metal shadow', sans-serif;
+    color: darkred;
+    margin-top: 30px;
+    margin-left: 140px;
+}
+
+.btn-menu{
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.btn-menu a{
+    font-size: 30px;
+    font-family: 'vtks Rude Metal shadow', sans-serif;
+    color: rgb(248, 246, 246);
+    padding: 30px;
+    text-decoration: none;
+}
+

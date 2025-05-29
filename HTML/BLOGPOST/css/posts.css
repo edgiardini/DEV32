@@ -1,0 +1,64 @@
+.cont-lista{
+   
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    text-align: center;
+    flex-flow: row wrap;
+
+
+}
+
+.cont-lista a{
+    text-align: center;
+}
+
+
+
+.cont-lista1{
+    background-color: rgb(0, 3, 2);
+    width: 200px;
+    height: 200px;
+
+}
+
+.cont-lista2{
+    background-color: rgb(0, 5, 3);
+    width: 200px;
+    height: 200px;
+}
+
+.cont-lista3{
+    background-color: rgb(0, 3, 2);
+    width: 200px;
+    height: 200px;
+}
+
+.cont-lista4{
+    background-color: rgb(0, 8, 6);
+    width: 200px;
+    height: 200px;
+}
+
+h1{
+ color: red;  
+ text-align: center;
+}
+
+.post text{
+    margin-left: 200px;
+    text-align: justify;
+    width: 300px;
+    color: white;
+    
+}
+
+.post{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.post img{
+    width: 400px;
+    height: 400px;
+}

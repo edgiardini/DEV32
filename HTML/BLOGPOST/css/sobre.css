@@ -1,0 +1,53 @@
+
+/* AJUSTE DE CONTEÚDO DO CSS */
+
+
+.sobre{
+    /* ATIVA FLEXBOX */
+    display: flex;
+    /* DEFINE A DIREÇÃO DO CONTEUDO */
+    flex-direction: row wrap;
+    /* ALINHA O CONTEUDO */
+    justify-content: space-between;
+    }
+
+
+    .sobre-texto{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: aliceblue;
+        font-size: 19px;
+        padding: 30px;
+        text-align: center;
+    }
+
+    .sobre-imagem img{
+        border-radius: 100%;
+    }
+
+    /* EFEITO DE MOUSE HOVER */
+    .sobre-imagem img:hover{
+        transform: scale(1.1);
+    }
+
+    /* AQUI SÃO AS REDES SOCIAIS */
+    .social{
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        display: flex;
+        flex-flow: row wrap;
+        }
+
+    .social a{
+        text-decoration: none;
+        color: white;
+        margin: 40px;
+    }
+
+    .github, .facebook, .instagram, .linkedin{
+text-align: center;
+display: flex;
+justify-content: center;
+    }
+    
+

@@ -1,0 +1,68 @@
+/* ESTILO DO TODO */
+#container{
+    background-color: rgb(5, 0, 0);
+    /* border 2px solid black; */
+    display: flex;
+    /* COLOCA UMA DIREÇÃO NA ESTRUTURA DOS ELEMENTOS DO SITE */
+    flex-direction: column;
+    /* ALINHA O CONTEUDO AO CENTRO */
+    justify-self: center;
+    /* DEFINE A LARGURA DO CONTAINER */
+    width: 1000px;
+    /* DEIXA A ALTURA AUTOMÁTICA CONFORME CONTEUDO */
+    height: auto;
+}
+
+/* ÁREA DE ESTILIZAÇÃO DO BANNER */
+.banner{
+    /* ATIVA FLEXBOX */
+    display: flex;
+    /* DEFINE A DIREÇÃO DO CONTEUDO */
+    flex-direction: row wrap;
+    /* ALINHA O CONTEUDO */
+    justify-content: space-between;
+    }
+
+.banner-texto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: 19px;
+    padding: 30px;
+    text-align: center;
+}
+
+/* ORGANIZANDO SUBCONTEUDO */
+.subconteudo{
+    /* ESPAÇO ENTRE BANNER E SUBCONTEUDO */
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+.cont1{
+    background-color: rgb(0, 3, 2);
+    width: 200px;
+    height: 200px;
+}
+
+.cont2{
+    background-color: rgb(0, 5, 3);
+    width: 200px;
+    height: 200px;
+}
+
+.cont3{
+    background-color: rgb(0, 3, 2);
+    width: 200px;
+    height: 200px;
+}
+
+.cont4{
+    background-color: rgb(0, 8, 6);
+    width: 200px;
+    height: 200px;
+}
+
+
